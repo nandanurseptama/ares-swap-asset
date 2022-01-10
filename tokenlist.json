@@ -1,0 +1,25 @@
+{
+  "name": "AresSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "AresSwap",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://gemini.com/static/images/loader.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "Ares",
+          "chainId": 1,
+          "symbol": "WAR",
+          "decimals": 18,
+          "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+          "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+      },
+  ]
+}

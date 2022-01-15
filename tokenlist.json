@@ -19,7 +19,7 @@
           "symbol": "WAR",
           "decimals": 18,
           "address": "0xec670571CC55Ac848bdcbe375883dB22D355ea45",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+          "logoURI": "https://raw.githubusercontent.com/nandanurseptama/ares-swap-asset/master/loto.jpg"
       },
     {
           "name": "WETH",
@@ -27,7 +27,7 @@
           "symbol": "WETH",
           "decimals": 18,
           "address": "0xc676516F9fFD816a13D4a763b13BC0385A3d6567",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+          "logoURI": "https://raw.githubusercontent.com/nandanurseptama/ares-swap-asset/master/loto.jpg"
       }
   ]
 }

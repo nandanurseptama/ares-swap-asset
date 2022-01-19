@@ -1,19 +1,21 @@
 [
-    "lpSymbol" : "Ares",
-    "lpAddress" : "0xec670571CC55Ac848bdcbe375883dB22D355ea45",
-    "pid" : 0,
-    "baseToken" : {
-        "chainId" : 43113,
-        "address":'0xB24c774562c9aa96aE199a8D50bE11a5e3C54E39',
-        "decimals":18,
-        "symbol" : 'dWar',
-        "name" : 'dWar'
-    },
-    "quoteToken" : {
-        "chainId" : 43113,
-        "address":'0xc676516F9fFD816a13D4a763b13BC0385A3d6567',
-        "decimals":18,
-        "symbol" : 'WMETIS',
-        "name" : 'Wrapped Metis'
+    {
+        "lpSymbol" : "Ares",
+        "lpAddress" : "0xec670571CC55Ac848bdcbe375883dB22D355ea45",
+        "pid" : 0,
+        "baseToken" : {
+            "chainId" : 43113,
+            "address":"0xB24c774562c9aa96aE199a8D50bE11a5e3C54E39",
+            "decimals":18,
+            "symbol" : "dWar",
+            "name" : "dWar"
+        },
+        "quoteToken" : {
+            "chainId" : 43113,
+            "address":"0xc676516F9fFD816a13D4a763b13BC0385A3d6567",
+            "decimals":18,
+            "symbol" : "WMETIS",
+            "name" : "Wrapped Metis"
+        }
     }
 ]
